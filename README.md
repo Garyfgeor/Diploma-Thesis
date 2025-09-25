@@ -3,7 +3,6 @@
 
 This repository contains the implementation of my diploma thesis, which focuses on the **removal of lens flare artifacts from RGB images** using **Generative Adversarial Networks (GANs)** with spatial attention mechanisms. The work combines **synthetic dataset generation in Unreal Engine** with **deep learning-based image restoration**, providing both training pipelines and a real-time restoration system.
 
-🎓 *Diploma Thesis by Garyfalia Georgitziki, University of Thessaly (2025)*  
 
 ---
 
